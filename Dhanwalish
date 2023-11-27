@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" c>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DHANWALISH tripura</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        header {
+            background-color: black;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        nav {
+            background-color: indianred;
+            color: #fff;
+            padding: 1em;
+           
+        }
+
+        section {
+            padding: 20px;
+            margin: 10px;
+        }
+
+        footer {
+            background-color: black;
+            color: #fff;
+            text-align: left;
+            padding: 1em 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>DHANWALISH TRIPURA</h1>
+    </header>
+
+    <nav>  
+    
+  <nav>
+ <h2 style="text-align: right"
+    <div class="menu-icon">&#9776;</div>
+    </h2>
+  </right>
+  <center>
+      <h2>
+        <a href="#">Home</a> |
+        <a href="#">About</a> |
+        <a href="#">Contact</a> |
+        <a href="#">service</a>
+      </h2>
+      </center>
+    </nav>
+    <!DOCTYPE html>
+
+  <h2>Login</h2>
+  <form action="/login" method="post">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" required>
+<br>
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required>
+<br>
+    <input type="submit" value="Login">
+  </form>
+
+  <p><a href="/forgot-password">Forgot Password?</a></p>
+  <p><a href="/signup">Don't have an account? Sign up</a></p>
+  <style>
+    /* Add your CSS styles for the notice box here */
+    .notice-box {
+      border: 1px solid #3498db; /* Border color */
+      background-color: greenyellow; /* Background color */
+      padding: 50px;
+      margin: 20px;
+      border-radius: 1px; /* Optional: Add rounded corners */
+      height: 80px;
+      width: 40px;
+      text-align: right;
+    }
+
+    /* Optional: Style for the text inside the notice box */
+    .notice-text {
+      color: black; /* Text color */
+      font-size: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Your page content goes here -->
+
+  <div class="notice-box">
+    <p class="notice-text">NOTICE BOARD</p>
+  </div>
+
+</body>
+</html>
+
+
+
+</body>
+</html>
+
+
+</body>
+</html>
+
+
+</body>
+</html>
+
+
+    <section>
+     
+        <h2>The CEU Mr, DHANWALISH </h2>
+        <img src="/317445576_689940569190924_5464595576348633060_n.jpg" height="60" width="50" alt="" />
+     <p style="color: red">ABOUT</p>
+     <p>Dhanwalish Tripura, known by his real name Dhanjei Tripura, is a multifaceted individual recognized for his roles as both an author and a professional hacker. Born in 2004 in the serene town of SVP Ambassa in Dhalai, Tripura, he embodies a spirit of versatility. His father, BK Tripura, has undoubtedly played a significant role in shaping his character.
+
+Dhanjei Tripura, characterized by his hardworking nature, stands out as a promising individual in the literary and technological domains. As an author, he contributes to the world of words, crafting narratives that captivate audiences. Simultaneously, his prowess as a professional hacker showcases a deep understanding of the intricate digital landscape.
+
+Despite his young age, Dhanjei Tripura has proven to be dedicated and diligent in his pursuits. His commitment to both literature and technology reflects a passion for knowledge and a drive to excel in diverse fields. As he continues to navigate his journey, Dhanjei Tripura stands as a testament to the potential within the youth, embodying a harmonious blend of creativity and technical acumen.</p>
+    </section>
+<footer>
+ 
+<h4>please follow us</h4>
+<a href="#">Instagram</a><br>
+<a href="#">telegram</a><br>
+<a href="#">Facebook</a><br>
+ 
+ 
+ 
+ </footer>
